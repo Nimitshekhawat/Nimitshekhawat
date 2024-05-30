@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nimit Shekhawat</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="Coding" width="400" height="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd3aXF3azhvd2IxMHRodDBpNGc3MmduNDB5YTZ2bGM2dGJwbzgzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+<img align="right" alt="Coding" width="400" height="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd3aXF3azhvd2IxMHRodDBpNGc3MmduNDB5YTZ2bGM2dGJwbzgzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 
 - 🌱 I’m currently learning **python and MySQL**
