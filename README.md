@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" height="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd3aXF3azhvd2IxMHRodDBpNGc3MmduNDB5YTZ2bGM2dGJwbzgzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 
-- 🌱 I’m currently learning **python, MySQL**
+- 🌱 I’m currently learning **python and MySQL**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Nimitshekhawat)
 
