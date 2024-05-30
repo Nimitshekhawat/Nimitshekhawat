@@ -28,9 +28,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nimitshekhawat&show_icons=true&locale=en&layout=compact&theme=radical&card_width=480)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nimitshekhawat&show_icons=true&locale=en" alt="nimitshekhawat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimitshekhawat&show_icons=true&locale=en" alt="nimitshekhawat" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nimitshekhawat&" alt="nimitshekhawat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimitshekhawat&" alt="nimitshekhawat" /></p>
 
 
 
