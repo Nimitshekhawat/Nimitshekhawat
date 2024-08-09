@@ -6,13 +6,13 @@
 <img align="right" alt="Coding" width="400" height="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd3aXF3azhvd2IxMHRodDBpNGc3MmduNDB5YTZ2bGM2dGJwbzgzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Full Stack Flutter**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Nimitshekhawat)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/nimit-shekhawat/)
 
-- 💬 Ask me about **Web, Back-End ,Java**
+- 💬 Ask me about **Cross platform Apps and  Web**
 
 - 📫 How to reach me **nimitshekhawat2001@gmail.com**
 
