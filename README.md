@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Cross platform Apps and  Web**
 
-- 📫 How to reach me **nimitshekhawat2001@gmail.com**
+- 📫 How to reach me **nimitshekhawat15@gmail.com**
 
 - ⚡ Fun fact **I can code**
 
